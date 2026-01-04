@@ -1,7 +1,7 @@
 # Hi, I'm Gede Yudhi Adinata Putra Kurniawan
 
 <p>
-  <strong>Aspiring Full-Stack Engineer</strong> | Udayana University IT Student | Web Dev, ML & UI/UX
+    I'm an Information Technology student at Udayana University with a passion for building beautiful, functional web applications. I love exploring the intersection of design and technology, from crafting seamless user experiences to developing robust backend systems.
 </p>
 
 <p>
@@ -15,12 +15,6 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
-
----
-
-### About Me
-
-I'm an Information Technology student at Udayana University with a passion for building beautiful, functional web applications. I love exploring the intersection of design and technology, from crafting seamless user experiences to developing robust backend systems.
 
 ---
 
